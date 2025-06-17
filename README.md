@@ -11,5 +11,6 @@ I'm a Postdoctoral Research Associate in computational chemistry, passionate abo
 - Automated Quantum Chemistry Pipeline with AI
 - Fragment-Based Drug Design Tool
 
+⚡ **Fun Fact**: I’m intrigued by philosophical questions like solipsism—can we trust our computational models to reflect reality, or are they just projections of our code? 😄 #CompChem #AI
+
 Stay tuned for updates as I share my projects and insights!
--->
